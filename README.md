@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Gabriel Amorim
+## 👋 Olá, eu sou o Gabriel Amorim
 
 # 🎯 Desenvolvedor Full Stack | Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
@@ -6,25 +6,25 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por desenvolvimento de software, boas
 
 # 🧠 Sobre mim
 
-# 💻 Atualmente estudando Java (Spring Boot) e banco de dados SQL
+* 💻 Atualmente estudando Java (Spring Boot) e banco de dados SQL
 
-# 🌱 Aprendendo também sobre APIs REST, Angular e boas práticas de arquitetura
+* 🌱 Aprendendo também sobre APIs REST, Angular e boas práticas de arquitetura
 
-# 🧩 Gosto de entender como as coisas funcionam por dentro
+* 🧩 Gosto de entender como as coisas funcionam por dentro
 
-# 📚 Sempre buscando evoluir e compartilhar conhecimento
+* 📚 Sempre buscando evoluir e compartilhar conhecimento
 
 # 🛠️ Tecnologias e Ferramentas
 Backend
 
-# ☕ Java • Spring Boot • JPA / Hibernate • Maven
+* ☕ Java • Spring Boot • JPA / Hibernate • Maven
 
-Frontend
+# Frontend
 
-# 🌐 HTML • CSS • TypeScript • Angular
+* 🌐 HTML • CSS • TypeScript • Angular
 
-Banco de Dados
+# Banco de Dados
 
-# 🗄️ PostgreSQL • MySQL
+* 🗄️ PostgreSQL • MySQL
 
-🔧 Git • GitHub • IntelliJ IDEA • Postman
+* 🔧 Git • GitHub • IntelliJ IDEA • Postman
