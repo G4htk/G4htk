@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por desenvolvimento de software, boas
 
 🧠 Sobre mim
 
-# 💻 Atualmente estudando Java (Spring Boot) e banco de dados SQL
+💻 Atualmente estudando Java (Spring Boot) e banco de dados SQL
 
 🌱 Aprendendo também sobre APIs REST, Angular e boas práticas de arquitetura
 
