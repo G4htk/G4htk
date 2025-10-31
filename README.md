@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Gabriel Amorim
 
-# 🎯 Desenvolvedor Full Stack | Estudante de Engenharia de Software | Entusiasta de Tecnologia
+🎯 Desenvolvedor Full Stack | Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
 Bem-vindo(a) ao meu perfil! Sou apaixonado por desenvolvimento de software, boas práticas de código e por aprender novas tecnologias. Aqui você vai encontrar meus projetos, estudos e experimentos no mundo da programação 🚀
 
-## 🧠 Sobre mim
+🧠 Sobre mim
 
 # 💻 Atualmente estudando Java (Spring Boot) e banco de dados SQL
 
