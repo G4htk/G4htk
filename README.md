@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Gabriel Amorim
+# 👋 Olá, eu sou o Gabriel Amorim
 
 🎯 Desenvolvedor Full Stack | Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
